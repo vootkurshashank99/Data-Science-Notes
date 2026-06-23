@@ -1,4 +1,4 @@
-# Personal Notes: DBSCAN Clustering
+# DBSCAN Clustering
 
 ## Overview
 This notebook serves as a personal reference for understanding and applying Density-Based Spatial Clustering of Applications with Noise (DBSCAN). It uses a sample retail dataset (`shopping_data.csv`) to explore the algorithm's mechanics, evaluation metrics, and hyperparameter tuning.
